@@ -1,6 +1,6 @@
 # electorn-clock
 ```shell
-cd ${my-app}
+cd my-app
 npm start
 ```
 ![clock](electorn-clock.gif)
