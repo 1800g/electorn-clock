@@ -3,4 +3,4 @@
 cd ${my-app}
 npm start
 ```
-![clock](electorn-clock.png)
+![clock](electorn-clock.gif)
